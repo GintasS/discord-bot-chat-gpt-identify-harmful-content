@@ -167,3 +167,4 @@ cython_debug/
 /baml_client/tracing.py
 /baml_client/type_builder.py
 /baml_client/types.py
+/app/baml_client/
