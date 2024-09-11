@@ -20,6 +20,7 @@ class Database:
   
 class Discord:
   API_BOT_TOKEN = os.environ['DISCORD_API_BOT_TOKEN']
+  HARMFUL_MESSAGE_REPLY_TEXT = "Warning: User: {} has written a harmful message categorized as {}."
 
 class Validation:
   USERNAME_MAX_LENGTH = 32
