@@ -20,6 +20,7 @@
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
     - [Manual setup](#manual-setup)
+    - [Deploying to AWS](#deploying-to-aws)
     - [Environment variables](#environment-variables)
 - [License](#license)
 
@@ -51,7 +52,6 @@ The project uses these technologies:
 - **Logging**: Python's built-in logging module is used to track the bot's activities and debug issues.
 - **BAML**: A library for managing and generating code, ensuring that the bot's codebase remains clean and maintainable.
 - **Marshmallow**: A library for object serialization and deserialization, used to convert database entities to and from Python objects.
-
 
 ## Getting Started
 
@@ -116,6 +116,7 @@ This should create a folder baml_client with all of the python includes.
 
 #### Deploying to AWS
 
+0. Create a AWS RDS instance to host the PostgreSQL database.
 1. Make sure the program works, run at least once to check if the discord bot is running.
 2. In the ```.env``` file, change the ```CURRENT_ENVIRONMENT_NAME``` variable to use ```PROD``` .
 3. Run Docker command from the terminal to build an image:
