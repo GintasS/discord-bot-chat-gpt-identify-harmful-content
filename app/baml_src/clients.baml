@@ -4,7 +4,7 @@ client<llm> GPT4o {
   provider openai
   options {
     model "gpt-4o"
-    api_key env.OPENAI_API_KEY
+    api_key env.OPEN_API_SECOND_KEY
   }
 }
 
@@ -12,7 +12,7 @@ client<llm> GPT4oMini {
   provider openai
   options {
     model "gpt-4o"
-    api_key ""
+    api_key  env.OPENAI_API_KEY
   }
 }
 
