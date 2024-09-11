@@ -20,7 +20,7 @@
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
     - [Manual setup](#manual-setup)
-    - [Environment variables](#variables-reference)
+    - [Environment variables](#environment-variables)
 - [License](#license)
 
 </details>
