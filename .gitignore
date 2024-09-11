@@ -168,3 +168,5 @@ cython_debug/
 /baml_client/type_builder.py
 /baml_client/types.py
 /app/baml_client/
+/app/baml_src/clients.baml
+/app/.env
