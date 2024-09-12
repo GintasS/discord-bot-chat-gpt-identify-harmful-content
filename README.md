@@ -1,11 +1,8 @@
 <div align="center">
   <h1>Discord Bot: Identify Harmful messages by ChatGPT LLM.</h1>
-  <br />
-  <br />
 </div>
 
 <div align="center">
-<br />
 
 [![license](https://img.shields.io/github/license/dec0dOS/amazing-github-template.svg?style=flat-square)](LICENSE)
 
