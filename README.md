@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Discord Bot: Identify Harmful messages by ChatGPT LLM.</h1>h
+  <h1>Discord Bot: Identify Harmful messages by ChatGPT LLM.</h1>
   <br />
   <br />
 </div>
